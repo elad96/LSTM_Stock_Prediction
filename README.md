@@ -1,5 +1,8 @@
 # LSTM_Stock_Prediction
 
+**Project Video:**
+https://www.youtube.com/watch?v=jq7yurfSSzU
+
 **Introduction:**
 This project uses a deep-learning Convolutional neural network (CNN) with Long short-term memory (LSTM) layer to try and comprehend the stock market patterns and price changes.
 
