@@ -10,7 +10,8 @@ The model learns for a specific stock its (normalized) price history and some of
 Model Output: 
 The models’ prediction value is the future normalized stock price.
 Model Layers:
-![image](https://user-images.githubusercontent.com/7150655/122878224-2b22ca00-d340-11eb-83d4-c7affbd5c4bf.png)
+![ללא שם](https://user-images.githubusercontent.com/7150655/122878541-8bb20700-d340-11eb-8047-df9965d9b44a.png)
+
 
 **Evaluation:**
 Our model uses Mean Square Error (MSE) as loss function. Therefore, in order to evaluate the models’ performance we convert the regression problem (Stock price prediction) to a binary problem (Will the price be higher or lower?).
