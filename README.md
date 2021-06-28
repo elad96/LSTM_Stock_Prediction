@@ -24,7 +24,8 @@ Therefore, in order to evaluate the models’ performance we convert the regress
 
 ![MSE](https://user-images.githubusercontent.com/7150655/122878281-41308a80-d340-11eb-8e0a-597eb77dfcfc.JPG)
 
-Next, we use Accuracy score to present how well our model performed. The score is calculated by the following formula:  
+Next, we use Accuracy score to present how well our model performed.  
+The score is calculated by the following formula:  
 (𝑇𝑁+𝑇𝑃)/(𝑇𝑃+𝐹𝑃+𝑇𝑁+𝐹𝑁)
 
 The accuracy is compared between binary values so we had to transform our result into binary representation.  
