@@ -9,7 +9,8 @@ This project uses a deep-learning Convolutional neural network (CNN) with Long s
 **Prediction Method:**
 In order to predict the stock market trend and interest, We use deep learning model.  
 Model Input:  
-The model learns for a specific stock its (normalized) price history and some of its financial indicators. Each data consists of predefined amount of days into the past, and the desired prediction value.  
+The model learns for a specific stock its (normalized) price history and some of its financial indicators.  
+Each data consists of predefined amount of days into the past, and the desired prediction value.  
 Model Output:  
 The models’ prediction value is the future normalized stock price.  
 Model Layers:  
